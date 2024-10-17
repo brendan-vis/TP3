@@ -92,5 +92,6 @@ python network.py lookup ddfvbn
 🌞 Déployez-moi ça dans une VM Rocky
 
 ```
-
+[brendan@localhost ~]$ sudo dnf install git
+[brendan@localhost ~]$ git clone https://github.com/brendan-vis/TP3..git
 ```
